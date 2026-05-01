@@ -5,7 +5,7 @@
 ### 🎓 Computer Engineering Student at Universidad Mayor De San Simón
 ### 👨‍🏫 Teaching Assistant for Introduction to Programming
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FF5733&center=true&vCenter=true&width=600&lines=Teaching+Assistant+for+Intro+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Bulbasaur+%F0%9F%8C%BF;JAVA+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4A9EFF&center=true&vCenter=true&width=700&lines=Teaching+Assistant+for+Intro+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Bulbasaur+%F0%9F%8C%BF;JAVA+%E2%98%95)](https://git.io/typing-svg)
 
 ---
 
