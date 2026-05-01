@@ -5,9 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4A9EFF&center=true&vCenter=true&width=700&lines=Teaching+Assistant+for+Intro+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Bulbasaur+%F0%9F%8C%BF;JAVA+%E2%98%95)](https://git.io/typing-svg)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,20&height=100&section=header" />
+
 ---
 
-## 💻 About Me ☕
+## About Me
 
 </div>
 
@@ -42,3 +44,11 @@ class Mati {
     }
 }
 ```
+
+## 💻 Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=java,cpp,python,js,linux,git,github&theme=dark&perline=7)](https://skillicons.dev)
+
+</div>
