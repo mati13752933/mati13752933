@@ -52,3 +52,17 @@ class Mati {
 [![Skills](https://skillicons.dev/icons?i=java,cpp,python,js,linux,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
+
+## ⭐ Favorite Languages
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=java,python,cpp&theme=dark&perline=3)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📬 Contact
+
+📧 mati13752933@gmail.com
