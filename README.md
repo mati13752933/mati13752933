@@ -34,4 +34,13 @@ class Mati {
     void getFavoritePokemon() {
         System.out.println(" Bulbasaur <3 ");
     }
+    void getRecordSolving() {
+        System.out.println(" 0:38:67 ");
+    }
+    void getFirstSolveCodeforces() {
+        System.out.println(" Watermelon ");
+    }
+    void getCity() {
+        System.out.println(" Bolivia - Cochabamba ");
+    }
 }
