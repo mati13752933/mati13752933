@@ -2,10 +2,11 @@
 
 # Hi, I'm Mati! 👋
 ### 🎓 Computer Engineering Student at Universidad Mayor De San Simón
+### Matias Marcelo Revollo Cornejo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4A9EFF&center=true&vCenter=true&width=700&lines=Teaching+Assistant+for+Intro+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Bulbasaur+%F0%9F%8C%BF;JAVA+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&weight=700&duration=2500&pause=800&color=4A9EFF&center=true&vCenter=true&width=700&lines=Teaching+Assistant+for+Intro+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Bulbasaur+%F0%9F%8C%BF;JAVA+%E2%98%95)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,20&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header" />
 
 ---
 
