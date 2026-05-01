@@ -2,7 +2,7 @@
 
 # Hi, I'm Matias Revollo! 👋
 
-### 🎓 3rd Semester Computer Engineering Student @ UMSS
+### 🎓 Student of Computer Engineering at Universidad Mayor de San Simón
 ### 💻 Teaching Assistant for Introduction to Programming
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Java+Developer;Rubik's+Cube+Enthusiast;Swimming+is+life;Big+Pok%C3%A9mon+Fan" alt="Typing SVG" />
@@ -14,17 +14,24 @@
 </div>
 
 ```java
-public class MatiasRevollo {
-    String role = "Computer Engineering Student @ UMSS";
-    int semester = 3;
-    int age = 19;
-    
-    String[] languages = {"Java", "Python", "C++"};
-    String strongestLanguage = "Java";
-    
-    public void getHobbies() {
-        solveRubiksCube();
-        goSwimming();
-        playPokemon(); // Big fan of the franchise!
+
+class Mati {
+    private int age;
+    private String role;
+    private String[] languages;
+    private String[] favoriteIDES;
+    Mati(int age, String role, String[] languages, String[] favoriteIDES){
+        this.age = age;               
+        this.role = role;             
+        this.languages = languages;
+        this.favoriteIDES = favoriteIDES;
+    }
+    static void main (String[] args){
+        Mati mati13752933 = new Mati( 19 , "Student of Computer Engineering at Universidad", 
+        { "Java", "Python", "C++", "JavaScript" }, { "BlueJ", "Thonny", "VScode", "cmd", "CodeBlocks" } );
+        mati13752933.getFavoritePokemon
+    }
+    void getFavoritePokemon() {
+        System.out.println(" Bulbasaur <3 ");
     }
 }
