@@ -13,37 +13,31 @@
 </div>
 
 ```java
-public class Mati {
+class Mati {
     private int age;
     private String role;
     private String[] languages;
     private String[] favoriteIDEs;
-
     Mati(int age, String role, String[] languages, String[] favoriteIDEs) {
         this.age = age;
         this.role = role;
         this.languages = languages;
         this.favoriteIDEs = favoriteIDEs;
     }
-
     static void main(String[] args) {
         String[] myLanguages = {"Java", "Python", "C++", "JavaScript"};
         String[] myIDEs = {"BlueJ", "Thonny", "VS Code", "Terminal", "CodeBlocks"};
-
         Mati mati13752933 = new Mati(19, "Computer Engineering Student @ UMSS",
                                       myLanguages, myIDEs);
         mati13752933.printFavoritePokemon();
         mati13752933.printRubiksRecord();
     }
-
     void printFavoritePokemon() {
         System.out.println("Bulbasaur <3");
     }
-
     void printRubiksRecord() {
         System.out.println("0:38:67");
     }
-
     void getCity() {
         System.out.println("Cochabamba, Bolivia");
     }
