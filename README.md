@@ -12,7 +12,6 @@
 ## 💻 About Me
 
 </div>
-
 ```java
 public class Mati {
     private int age;
